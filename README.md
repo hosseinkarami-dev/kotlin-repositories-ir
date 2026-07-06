@@ -1,4 +1,4 @@
-# Kotlin Gradle Repositories for Iran 🇮🇷
+# مخازن گریدل کاتلین برای استفاده در پروژه‌های کاتلین مولتی پلتفرم، اندروید و جاوا در ایران
 
 > Gradle & Maven repository configurations for Kotlin, Android, JVM, and Java projects.
 
